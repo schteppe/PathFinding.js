@@ -134,7 +134,7 @@ When instantiating path-finders, you may pass in additional parameters to indica
 
 For `AStarFinder`, `BestFirstFinder` and all their `Bi` relatives, you may indicate which heuristic function to use.
 
-The predefined heuristics are `PF.Heuristic.manhattan`(defalut), `PF.Heuristic.chebyshev` and `PF.Heuristic.euclidean`.
+The predefined heuristics are `PF.Heuristic.manhattan`(default), `PF.Heuristic.chebyshev` and `PF.Heuristic.euclidean`.
 
 To use the chebyshev heuristic:
 
